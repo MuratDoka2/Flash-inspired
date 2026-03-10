@@ -33,7 +33,7 @@ A lightweight, Adobe Flash-inspired animation tool that runs entirely in the bro
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/flash-tool.git
+git clone https://github.com/MuratDoka2/Flash-inspired.git
 cd flash-tool
 
 # 2. Create a Vite + React project
